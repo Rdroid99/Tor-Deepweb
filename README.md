@@ -1,7 +1,7 @@
 # Tor-Deepweb
 Tor-Deepweb is browser deepweb onion lite version or Terminal version Not Vpn,Not Root,is ready for use
 # How to install
-'''
+_______________________________________________________________________________________________________
    >apt upgrade && apt update
    
    >apt install python
@@ -18,5 +18,7 @@ Tor-Deepweb is browser deepweb onion lite version or Terminal version Not Vpn,No
    
    >chmod +x * 
    
-   >python Tor-Deepweb.py'''
+   >python Tor-Deepweb.py 
+
 # Enjoy ~~
+and thanks for used this share if u like this tools
